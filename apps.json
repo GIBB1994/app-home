@@ -1,8 +1,8 @@
 [
   {
-    "name": "Timer",
-    "slug": "app-timer",
-    "url": "https://gibb1994.github.io/app-timer/",
+    "name": "Stopwatch Countdown",
+    "slug": "app-stopwatchcountdown",
+    "url": "https://gibb1994.github.io/app-stopwatchcountdown/",
     "description": "Stopwatch + countdown"
   },
   {
@@ -15,7 +15,7 @@
     "name": "Flashcards",
     "slug": "app-flashcards",
     "url": "https://gibb1994.github.io/app-flashcards/",
-    "description": "Simple flashcards PWA"
+    "description": "Simple flashcards"
   }
 ]
 
