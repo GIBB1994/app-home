@@ -1,4 +1,10 @@
 [
+   {
+    "name": "SimpleSpend",
+    "slug": "app-simplespend",
+    "url": "https://gibb1994.github.io/app-simplespend/",
+    "description": "Budgeting made simple"
+  },
   {
     "name": "Stopwatch Countdown",
     "slug": "app-stopwatchcountdown",
