@@ -1,1 +1,21 @@
+[
+  {
+    "name": "Timer",
+    "slug": "app-timer",
+    "url": "https://gibb1994.github.io/app-timer/",
+    "description": "Stopwatch + countdown"
+  },
+  {
+    "name": "Name Game",
+    "slug": "app-namegame",
+    "url": "https://gibb1994.github.io/app-namegame/",
+    "description": "Party name guessing game"
+  },
+  {
+    "name": "Flashcards",
+    "slug": "app-flashcards",
+    "url": "https://gibb1994.github.io/app-flashcards/",
+    "description": "Simple flashcards PWA"
+  }
+]
 
