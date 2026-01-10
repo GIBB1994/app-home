@@ -1,1 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>App Home</title>
+  <meta name="theme-color" content="#111827" />
+  <link rel="manifest" href="./manifest.json" />
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">⌂</div>
+      <div>
+        <div class="title">App Home</div>
+        <div class="subtitle">Your personal hub</div>
+      </div>
+    </div>
+
+    <div class="right">
+      <span id="versionBadge" class="badge">…</span>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls">
+      <input id="search" class="search" type="search" placeholder="Search apps…" autocomplete="off" />
+      <div class="counts">
+        <span id="countAll" class="pill">All: 0</span>
+        <span id="countShown" class="pill">Shown: 0</span>
+      </div>
+    </section>
+
+    <section id="grid" class="grid" aria-live="polite"></section>
+
+    <section class="footer">
+      <button id="refreshBtn" class="btn">Refresh list</button>
+      <button id="installBtn" class="btn secondary" disabled>Install</button>
+    </section>
+  </main>
+
+  <script src="./js/app.js"></script>
+</body>
+</html>
 
